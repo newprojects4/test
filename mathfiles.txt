@@ -1,0 +1,7 @@
+Welcome to main content.
+
+1)Natutal numbers
+2)Quatatic equations
+3)Complex numbers
+
+All done.
