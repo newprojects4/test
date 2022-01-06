@@ -1,0 +1,16 @@
+welcome to main content.
+
+log0=Infinite
+log1=0
+log2=0.3010
+log3=0.4771
+log4=0.6020
+log5=0.7781
+log6=0.4060
+log7=0.845
+log8=0.9030
+log9=0.9542
+log10=10
+
+Thank you  ..)
+All done.
